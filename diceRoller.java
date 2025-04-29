@@ -1,3 +1,4 @@
+//this is an program which is used for playing diuce roll game.
 import java.util.Random;
 import java.util.Scanner;
 
